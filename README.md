@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @elladvir
-- 👀 I’m interested in Java , JS , Python , Test Automation
+- 👀 I’m interested in NodeJS , Java , JS , Test Automation
 - 📫 elladvir@gmail.com
 
 <!---
